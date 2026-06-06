@@ -1,0 +1,5 @@
+{
+  "name": "SpaceRun",
+  "description": "A high-speed vertical scrolling space survival game. Manage your fuel, dodge meteorites, and collect energy batteries to survive the nebula.",
+  "requestFramePermissions": []
+}
